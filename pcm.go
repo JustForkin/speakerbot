@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/layeh/gopus"
+	"github.com/leetcodes/gopus"
 )
 
 // Borrowed from https://github.com/bwmarrin/dgvoice
