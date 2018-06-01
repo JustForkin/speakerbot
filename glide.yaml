@@ -6,7 +6,7 @@ import:
 - package: github.com/davecgh/go-spew
   subpackages:
   - spew
-- package: github.com/layeh/gopus
+- package: github.com/leetcodes/gopus
 - package: github.com/oleiade/lane
 - package: github.com/Jeffail/gabs
 - package: github.com/paked/configure
