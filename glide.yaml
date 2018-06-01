@@ -1,4 +1,4 @@
-package: github.com/dustinblackman/speakerbot
+package: github.com/leetcodes/speakerbot
 version: 1.0.0
 import:
 - package: github.com/bwmarrin/discordgo
@@ -6,7 +6,7 @@ import:
 - package: github.com/davecgh/go-spew
   subpackages:
   - spew
-- package: github.com/leetcodes/gopus
+- package: gopus
 - package: github.com/oleiade/lane
 - package: github.com/Jeffail/gabs
 - package: github.com/paked/configure
